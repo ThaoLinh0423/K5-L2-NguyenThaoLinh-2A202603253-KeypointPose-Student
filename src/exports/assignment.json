@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603253",
+ "ten": "NguyenThaoLinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "ThaoLinh0423",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000213933.jpg",
+  "000000365099.jpg",
+  "000000445187.jpg",
+  "000000493741.jpg",
+  "000000030960.jpg",
+  "000000078170.jpg",
+  "000000324953.jpg",
+  "000000307757.jpg",
+  "000000480582.jpg",
+  "000000572411.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_141135.jpg",
+  "face_261458.jpg",
+  "face_362568.jpg",
+  "face_416730.jpg",
+  "face_476363.jpg",
+  "face_196742.jpg",
+  "face_13874.jpg",
+  "face_79367.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "persons-NguyenThaoLinh"
+  },
+  "faces": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "faces-NguyenThaoLinh"
+  }
+ }
+}
